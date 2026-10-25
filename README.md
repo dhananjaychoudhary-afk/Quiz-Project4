@@ -74,7 +74,7 @@ See [`audit.md`](audit.md) for the detailed audit report.
 
 ## Author
 
-**Sakshi Bangar**
+**Dhananjay Choudhary**
 
 Computer Science Engineering Student
 
